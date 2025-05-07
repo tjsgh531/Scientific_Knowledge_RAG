@@ -1,0 +1,6 @@
+data
+data.tar.gz
+__pycache__
+elasticsearch-8.8.0
+elasticsearch-8.8.0-darwin-x86_64.tar.gz
+.env
